@@ -1,4 +1,4 @@
-def DrawSortedReceiptNumbers(n, m):
+def DrawReceiptNumbers(n, m):
     
     if(n < m):
         
